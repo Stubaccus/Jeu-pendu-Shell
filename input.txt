@@ -1,0 +1,9 @@
+ordinateur
+programmation
+linux
+shell
+terminal
+bonjour
+hello
+world
+hello-world
